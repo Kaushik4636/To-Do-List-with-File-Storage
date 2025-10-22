@@ -103,4 +103,3 @@ If you have any questions, feedback, or just want to say hello, feel free to rea
 **GitHub**: [github.com/Kaushik4636](https://github.com/Kaushik4636)
 
 Thank you for checking out the **To-Do List with File Storage** project! Enjoy staying organized and happy coding!
-This README provides all the relevant details, a welcoming tone, and easy-to-follow instructions. It’s designed to be clear and approachable, making it user-friendly for both beginners and experienced developers. Let me know if you want to tweak anything!
